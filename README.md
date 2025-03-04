@@ -1,5 +1,7 @@
 ### Introduction
 Parch and Posey is an online retailer specializing in various paper products, including Standard, Poster, and Gloss paper types. <br>
+This dataset provides valuable insights into sales performance, customer behavior, and regional trends, making it a useful resource for business analysis and decision-making.
+
 The dataset, designed for educational purposes, contains over 15,000 records across 5 key tables:
 
 - **Orders** – Tracks customer purchases and order details.
@@ -8,4 +10,4 @@ The dataset, designed for educational purposes, contains over 15,000 records acr
 - **Sales_reps** – Stores details of the sales representatives managing accounts.
 - **Region** – Defines geographical sales regions. <br>
 
-This dataset provides valuable insights into sales performance, customer behavior, and regional trends, making it a useful resource for business analysis and decision-making.
+<img src="images/sche.png" alt="Description" width="700" height="500">
